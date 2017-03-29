@@ -1,0 +1,18 @@
+{
+  "definitions": {
+    "Transaction": {
+      "properties": {
+        "relatedImplementationMilestone": {
+          "$ref": "#/definitions/milestoneReference"
+        }
+      }
+    },
+    "TransactionUnversioned": {
+      "properties": {
+        "relatedImplementationMilestone": {
+          "$ref": "#/definitions/milestoneReferenceUnversioned"
+        }
+      }
+    }
+  }
+}
