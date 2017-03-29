@@ -39,7 +39,7 @@ The ```milestoneReference``` object is introduced by the [metrics extension](htt
 			},
 			"payer": {
 				"id": "GB-GOV-00000000",
-				"name: "Example ministry"
+				"name": "Example ministry"
 			},
 			"payee": {
 				"id": "GB-COH-99999999",
