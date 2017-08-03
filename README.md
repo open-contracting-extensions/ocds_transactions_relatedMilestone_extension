@@ -54,5 +54,3 @@ The ```milestoneReference``` object is introduced by the [metrics extension](htt
 }
 ```
 
-
-
