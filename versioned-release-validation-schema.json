@@ -3,14 +3,14 @@
     "Transaction": {
       "properties": {
         "relatedImplementationMilestone": {
-          "$ref": "#/definitions/milestoneReference"
+          "$ref": "#/definitions/MilestoneReference"
         }
       }
     },
     "TransactionUnversioned": {
       "properties": {
         "relatedImplementationMilestone": {
-          "$ref": "#/definitions/milestoneReferenceUnversioned"
+          "$ref": "#/definitions/MilestoneReferenceUnversioned"
         }
       }
     }
