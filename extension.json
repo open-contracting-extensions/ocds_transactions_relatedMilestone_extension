@@ -1,1 +1,11 @@
-{"name":"ocds_transactions_relatedMilestone_extension","description":"Adds a relatedImplementationMilestone property to the transactions object so that disbursements can be linked with their associated milestone."}
+{
+  "name": {
+    "en": "ocds_transactions_relatedMilestone_extension"
+  },
+  "description": {
+    "en": "Adds a relatedImplementationMilestone property to the transactions object so that disbursements can be linked with their associated milestone."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/open-contracting/ocds_transactions_relatedMilestone_extension"
+  }
+}
