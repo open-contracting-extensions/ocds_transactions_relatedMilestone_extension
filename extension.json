@@ -7,5 +7,8 @@
   },
   "documentationUrl": {
     "en": "https://github.com/open-contracting/ocds_transactions_relatedMilestone_extension"
-  }
+  },
+  "dependencies": [
+    "https://raw.githubusercontent.com/open-contracting/ocds_metrics_extension/master/extension.json"
+  ]
 }
