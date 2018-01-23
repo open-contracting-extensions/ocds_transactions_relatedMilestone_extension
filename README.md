@@ -2,17 +2,17 @@
 
 ## Background
 
-In core OCDS ```transactions``` are a property of the ```implementation``` object.
+In core OCDS `transactions` are a property of the `implementation` object.
 
 Some contracts link payments against a contract to specific milestones for the delivery of the contract.
 
 ## Extension fields
 
-This extension adds a ```relatedImplementationMilestone``` property to the ```transaction``` object.
+This extension adds a `relatedImplementationMilestone` property to the `transaction` object.
 
-The ```relatedImplementationMilestone``` property is a ```MilestoneReference``` object.
+The `relatedImplementationMilestone` property is a `MilestoneReference` object.
 
-The ```MilestoneReference``` object is introduced by the [metrics extension](https://github.com/open-contracting/ocds_metrics_extension).
+The `MilestoneReference` object is introduced by the [metrics extension](https://github.com/open-contracting/ocds_metrics_extension).
 
 ## Example
 
