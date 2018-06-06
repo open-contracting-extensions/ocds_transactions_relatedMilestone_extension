@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "ocds_transactions_relatedMilestone_extension"
+    "en": "Transactions - Related Milestones"
   },
   "description": {
     "en": "Adds a relatedImplementationMilestone property to the transactions object so that disbursements can be linked with their associated milestone."
