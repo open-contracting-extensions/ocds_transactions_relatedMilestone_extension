@@ -11,6 +11,9 @@
   "compatibility": [
     "1.1"
   ],
+  "schemas": [
+    "release-schema.json"
+  ],
   "dependencies": [
     "https://raw.githubusercontent.com/open-contracting/ocds_metrics_extension/master/extension.json"
   ]
