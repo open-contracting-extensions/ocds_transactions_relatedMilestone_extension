@@ -20,6 +20,8 @@ The `MilestoneReference` object is introduced by the [metrics extension](http://
 {
   "contracts": [
     {
+      "id": "1",
+      "awardID": "1",
       "implementation": {
         "milestones": [
           {
