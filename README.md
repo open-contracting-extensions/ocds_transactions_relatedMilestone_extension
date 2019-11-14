@@ -8,7 +8,7 @@ Some contracts link payments against a contract to specific milestones for the d
 
 ## Extension fields
 
-This extension adds a `relatedImplementationMilestone` property to the `transaction` object.
+This extension adds a `relatedImplementationMilestone` property to the `Transaction` object.
 
 The `relatedImplementationMilestone` property is a `MilestoneReference` object.
 
