@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Transactions - Related Milestones"
+    "en": "Transaction related milestones"
   },
   "description": {
     "en": "Adds a relatedImplementationMilestone property to the transactions object so that disbursements can be linked with their associated milestone."

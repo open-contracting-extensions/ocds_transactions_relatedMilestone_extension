@@ -1,4 +1,4 @@
-# Transactions - relatedMilestone Extension
+# Transaction related milestones
 
 ## Background
 
