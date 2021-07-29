@@ -3,7 +3,7 @@
     "en": "Transaction related milestones"
   },
   "description": {
-    "en": "Adds a relatedImplementationMilestone property to the transactions object so that disbursements can be linked with their associated milestone."
+    "en": "Adds a relatedImplementationMilestone field to transaction objects, so that payments against a contract can be linked with an implementation milestone."
   },
   "documentationUrl": {
     "en": "https://extensions.open-contracting.org/en/extensions/transaction_milestones/"

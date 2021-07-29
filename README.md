@@ -1,6 +1,6 @@
 # Transaction related milestones
 
-Some payments against a contract are linked to specific implementation milestones. This extension adds a `relatedImplementationMilestone` field to the `contracts.implementation.transactions` array.
+This extension adds a `relatedImplementationMilestone` field to transaction objects, so that payments against a contract can be linked with an implementation milestone.
 
 ## Example
 
