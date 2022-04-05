@@ -15,7 +15,7 @@
     "release-schema.json"
   ],
   "dependencies": [
-    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_metrics_extension/master/extension.json"
+    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_metrics_extension/1.1/extension.json"
   ],
   "contactPoint": {
     "name": "Open Contracting Partnership",
