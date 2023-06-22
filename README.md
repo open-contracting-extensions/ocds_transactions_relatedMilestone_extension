@@ -2,6 +2,8 @@
 
 This extension adds a `relatedImplementationMilestone` field to transaction objects, so that payments against a contract can be linked with an implementation milestone.
 
+This extension must be used with the [Metrics](https://extensions.open-contracting.org/en/extensions/metrics/1.1/) extension.
+
 ## Example
 
 ```json
